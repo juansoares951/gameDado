@@ -1,0 +1,42 @@
+* {
+    background-color: rgb(9, 44, 17);
+    font-family: 'Indie Flower', cursive;
+    color: aliceblue;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dado{
+    display: inline-block;
+    text-align: center;
+    width: 400px;
+    height: 400px;
+   
+}
+
+h1{
+    margin: 30px;
+    font-family: 'Lobster' , cursive;
+    text-shadow: 5px 0 #232931;    
+    font-size: 8rem;
+    color: rgb(201, 147, 30);
+}
+
+h2{
+    font-size: 2rem;
+    color: grey;
+}
+
+img{
+    width: 50%;
+}
+
+footer{
+    margin-top: 5%;
+    text-align: center;
+    color: yellow;
+}
