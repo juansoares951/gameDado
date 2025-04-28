@@ -26,4 +26,5 @@ Imagens Dinâmicas dos Dados:
 As imagens correspondentes aos números gerados são selecionadas (dado1.jpg até dado6.jpg) e atualizadas nos elementos <img> da página.
 
 Determinação do Vencedor:
-Compara os números dos jogadores e atualiza o título da página <h1> para indicar o vencedor (Jogador 1 ou Jogador 2) ou um empate.
+Compara os números dos jogadores e atualiza o título da página <h1> para indicar o vencedor ou empate
+
