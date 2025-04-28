@@ -27,4 +27,5 @@ As imagens correspondentes aos números gerados são selecionadas (dado1.jpg at�
 
 Determinação do Vencedor:
 Compara os números dos jogadores e atualiza o título da página <h1> para indicar o vencedor ou empate
+_________________________________________________________________________________________________________________________
 
